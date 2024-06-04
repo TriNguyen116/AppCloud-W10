@@ -1,0 +1,6 @@
+@Ex08_ContosoPizza_HostAddress = http://localhost:5210
+
+GET {{Ex08_ContosoPizza_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

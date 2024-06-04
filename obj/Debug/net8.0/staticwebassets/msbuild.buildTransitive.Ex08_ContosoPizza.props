@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ex08_ContosoPizza.props" />
+</Project>
